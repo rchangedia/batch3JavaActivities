@@ -1,1 +1,2 @@
-# batch3JavaActivities
+# SDET batch3 Java activities
+
